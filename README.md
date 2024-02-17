@@ -5,8 +5,8 @@
 
 ## 原创知识笔记
 > 流水不争先，争的是滔滔不绝
-* 个人博客：[blog](https://blog.csdn.net/Locky136?type=blog)
-* 知识笔记：[note](https://github.com/wuzizhongqiu/wuzi-study-note)
+* 个人博客：https://ziqiu.blog.csdn.net/
+* 知识笔记：https://github.com/wuzizhongqiu/WuziStudyNote
 
 
 ## 个人项目开源
