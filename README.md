@@ -11,8 +11,7 @@
 
 ## 个人项目
 > 合抱之木，生于毫末；九层之台，起于累土；千里之行，始于足下
-* Tiktok：[简版抖音项目]()
-* WuziGodis：[Go 实现内存型数据库]()
+* GoMiniCache：[Go 实现内存型数据库]()
 * WuziWebTemplate：[基于 Kratos 框架的项目初始化模板]()
 * WuziUserCenter：[用户账号管理中心]()
 
