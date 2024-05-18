@@ -1,6 +1,6 @@
 ## 我是戊子仲秋
 > 大学本科在读
-* 技术栈：Golang、C/C++
+* 技术栈：Golang、Vue、C/C++
 
 
 ## 原创知识笔记
@@ -13,8 +13,8 @@
 > 合抱之木，生于毫末；九层之台，起于累土；千里之行，始于足下
 * GoMiniCache：[Go 实现内存型数据库](https://github.com/wuzizhongqiu/GoMiniCache)
 * GoUserManage：[Go 练手小项目，用户账号管理系统](https://github.com/wuzizhongqiu/GoUserManage)
-* WuziWebTemplate：[基于 Kratos 框架的项目初始化模板](https://github.com/wuzizhongqiu/WuziWebTemplate)
-
+* WuziWebTemplate-Backend：[基于 Kratos 框架的后端项目初始化模板](https://github.com/wuzizhongqiu/WuziWebTemplate-Backend)
+* WuziWebTemplate-Frontend：[基于 Vue3+TypeScript 的前端项目初始化模板](https://github.com/wuzizhongqiu/WuziWebTemplate-Frontend)
 
 ## 年度贡献汇总
 > 人间总有一两风，填我十万八千梦
