@@ -6,7 +6,7 @@
 ## 原创知识笔记
 > 流水不争先，争的是滔滔不绝
 * 个人博客：https://ziqiu.blog.csdn.net/
-* 知识笔记：https://github.com/wuzizhongqiu/WuziStudyNote
+* 自媒体主页：https://space.bilibili.com/478951750
 
 
 ## 个人项目开源
