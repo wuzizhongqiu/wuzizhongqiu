@@ -3,10 +3,9 @@
 * 技术栈：Golang、Vue、C/C++
 
 
-## 原创知识笔记
+## 原创知识笔记 & 算法积累
 > 流水不争先，争的是滔滔不绝
-* 个人博客：https://ziqiu.blog.csdn.net/
-* 自媒体主页：https://space.bilibili.com/478951750
+* [个人博客](https://ziqiu.blog.csdn.net/) | [力扣主页](https://leetcode.cn/u/tender-galoissbk/) | [自媒体主页](https://space.bilibili.com/478951750)
 
 
 ## 个人项目开源
