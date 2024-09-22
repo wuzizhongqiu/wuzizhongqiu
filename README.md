@@ -12,9 +12,13 @@
 ## 个人项目开源
 > 合抱之木，生于毫末；九层之台，起于累土；千里之行，始于足下
 * GoMiniCache：[Go 实现内存型数据库](https://github.com/wuzizhongqiu/GoMiniCache)
-* GoUserManage：[Go 练手小项目，用户账号管理系统](https://github.com/wuzizhongqiu/GoUserManage)
+* Go?开发中：[基于 Kratos 框架开发的 Web 项目通用评价模块]()
+* GoUserManage：[Go 练手小项目，基于 Gin 框架实现的用户账号管理系统](https://github.com/wuzizhongqiu/GoUserManage)
+* AnswerApplicationPlatform-Backend：[基于 Kratos 框架的答题应用平台后端代码](https://github.com/wuzizhongqiu/AnswerApplicationPlatform-Backend)
+* AnswerApplicationPlatform-Frontend：[基于 Vue3+TypeScript 的答题应用平台前端代码](https://github.com/wuzizhongqiu/AnswerApplicationPlatform-Frontend)
 * WuziWebTemplate-Backend：[基于 Kratos 框架的后端项目初始化模板](https://github.com/wuzizhongqiu/WuziWebTemplate-Backend)
 * WuziWebTemplate-Frontend：[基于 Vue3+TypeScript 的前端项目初始化模板](https://github.com/wuzizhongqiu/WuziWebTemplate-Frontend)
+* C-STL：[C++ 练手小课题，仿 STL30 模拟实现 STL](https://github.com/wuzizhongqiu/C-STL)
 
 ## 年度贡献汇总
 > 人间总有一两风，填我十万八千梦
