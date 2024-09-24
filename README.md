@@ -5,7 +5,7 @@
 
 ## 原创知识笔记 & 算法积累
 > 流水不争先，争的是滔滔不绝
-* [个人博客](https://ziqiu.blog.csdn.net/) | [力扣主页](https://leetcode.cn/u/tender-galoissbk/) | [自媒体主页](https://space.bilibili.com/478951750)
+* [个人博客](https://ziqiu.blog.csdn.net/) | [力扣主页](https://leetcode.cn/u/tender-galoissbk/) | [自媒体主页](https://space.bilibili.com/478951750) | [LeetCode 每日一题题解](https://blog.csdn.net/locky136/category_12486773.html)
 
 
 ## 个人项目开源
